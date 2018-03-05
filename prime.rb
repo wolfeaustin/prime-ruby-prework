@@ -1,4 +1,4 @@
-def prime(num)
+def prime?(num)
   primed = true 
   i = 1
   while i < num 
