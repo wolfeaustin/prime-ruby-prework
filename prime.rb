@@ -1,1 +1,7 @@
-# Add  code here!
+def prime(num)
+  primed = true 
+  
+  
+  
+  primed 
+end 
